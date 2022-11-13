@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.nav-container{
+  font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.purple{
+  color:rgba(128, 0, 128, 0.25);
+}
+.darkpurple{
+  color: #800080;
+}
+.gradient{
+  background: linear-gradient(270deg, #800080 0%, #FF864C 100%);
+}
+.efont{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+}
+.border-gradient{
+  border-color: rgba(128, 0, 128, 1);
+}
+.icon{
+  color: linear-gradient(270deg, #800080 0%, #FF864C 100%);
+}
